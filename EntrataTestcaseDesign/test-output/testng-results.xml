@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-06T19:44:31 IST" name="Suite" finished-at="2024-10-06T19:46:10 IST" duration-ms="98790">
+    <groups>
+    </groups>
+    <test started-at="2024-10-06T19:44:31 IST" name="Test" finished-at="2024-10-06T19:46:10 IST" duration-ms="98790">
+      <class name="Entrata.EntrataTestcaseDesign.LoginWithInvalidCredentials">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Entrata.EntrataTestcaseDesign.LoginWithInvalidCredentials@5824a83d]" started-at="2024-10-06T19:44:31 IST" name="setUp" finished-at="2024-10-06T19:44:56 IST" duration-ms="25368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLoginWithInvalidCredentials()[pri:0, instance:Entrata.EntrataTestcaseDesign.LoginWithInvalidCredentials@5824a83d]" started-at="2024-10-06T19:44:56 IST" name="testLoginWithInvalidCredentials" finished-at="2024-10-06T19:45:10 IST" duration-ms="13241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginWithInvalidCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Entrata.EntrataTestcaseDesign.LoginWithInvalidCredentials@5824a83d]" started-at="2024-10-06T19:45:10 IST" name="tearDown" finished-at="2024-10-06T19:45:10 IST" duration-ms="318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Entrata.EntrataTestcaseDesign.LoginWithInvalidCredentials@5824a83d]" started-at="2024-10-06T19:45:10 IST" name="setUp" finished-at="2024-10-06T19:45:35 IST" duration-ms="24663" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validatingRedirection()[pri:0, instance:Entrata.EntrataTestcaseDesign.LoginWithInvalidCredentials@5824a83d]" started-at="2024-10-06T19:45:35 IST" name="validatingRedirection" finished-at="2024-10-06T19:45:49 IST" duration-ms="14458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingRedirection -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Entrata.EntrataTestcaseDesign.LoginWithInvalidCredentials@5824a83d]" started-at="2024-10-06T19:45:49 IST" name="tearDown" finished-at="2024-10-06T19:45:50 IST" duration-ms="640" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Entrata.EntrataTestcaseDesign.LoginWithInvalidCredentials@5824a83d]" started-at="2024-10-06T19:45:50 IST" name="setUp" finished-at="2024-10-06T19:46:04 IST" duration-ms="14670" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validatingpageRedirection()[pri:0, instance:Entrata.EntrataTestcaseDesign.LoginWithInvalidCredentials@5824a83d]" started-at="2024-10-06T19:46:04 IST" name="validatingpageRedirection" finished-at="2024-10-06T19:46:09 IST" duration-ms="4992" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingpageRedirection -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Entrata.EntrataTestcaseDesign.LoginWithInvalidCredentials@5824a83d]" started-at="2024-10-06T19:46:09 IST" name="tearDown" finished-at="2024-10-06T19:46:10 IST" duration-ms="292" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Entrata.EntrataTestcaseDesign.LoginWithInvalidCredentials -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
